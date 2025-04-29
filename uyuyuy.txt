@@ -1,0 +1,4 @@
+def lista():
+    my_book=["Claudio","Fabian","Collantes","47969778"]
+
+    return dict(my_book=my_book)
